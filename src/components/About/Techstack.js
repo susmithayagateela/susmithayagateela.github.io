@@ -22,37 +22,38 @@ function Techstack() {
         <DiHtml5/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiC />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiCss3 />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiMysql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiTailwindcss />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFigma/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiBootstrap/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit/>
+        <SiTailwindcss />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFigma/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiJavascript1 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiC />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMysql />
+      </Col>
+      
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiSap/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGit/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
       <SiJenkins/>

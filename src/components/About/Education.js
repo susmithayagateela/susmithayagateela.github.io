@@ -6,17 +6,17 @@ function Education() {
   const educationData = [
     {
       universityLogo: AUMLogo,
-      universityName: "University of XYZ",
-      stream: "Master of Science in Computer Science",
-      startYear: "2022",
-      endYear: "2024",
+      universityName: "Auburn University at Montgomery",
+      stream: "Masters in Computer Science",
+      startYear: "2023",
+      endYear: "2025",
     },
     {
       universityLogo: VemuLogo,
-      universityName: "ABC College of Engineering",
-      stream: "Bachelor of Technology in Information Technology",
-      startYear: "2018",
-      endYear: "2022",
+      universityName: "Vemu Institute of Technology",
+      stream: "Bachelor of Electrical and Electronics Engineering",
+      startYear: "2017",
+      endYear: "2021",
     },
   ];
 
