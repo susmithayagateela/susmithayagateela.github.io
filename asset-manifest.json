@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3aa3d8a2.css",
+    "main.js": "/static/js/main.95be48b8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Susmitha_Yagateela_SAPABAP Developer.pdf": "/static/media/Susmitha_Yagateela_SAPABAP Developer.1836886f2811582f4e33.pdf",
+    "static/media/susmitha.jpeg": "/static/media/susmitha.80438c735a5e6d118e8d.jpeg",
+    "static/media/AUMLogo.png": "/static/media/AUMLogo.2456fb5a7a69477616d7.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.728a3107a83a9e5995c0.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Sanofi.png": "/static/media/Sanofi.7c7f970cda3c2e741c87.png",
+    "static/media/vemuLogo.png": "/static/media/vemuLogo.11a1f42c7fa48ff289e3.png",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.3aa3d8a2.css.map": "/static/css/main.3aa3d8a2.css.map",
+    "main.95be48b8.js.map": "/static/js/main.95be48b8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa3d8a2.css",
+    "static/js/main.95be48b8.js"
+  ]
+}
